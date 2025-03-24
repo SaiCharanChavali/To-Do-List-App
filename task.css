@@ -1,0 +1,50 @@
+.container1{
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgb(117, 191, 206);
+    width: 100vw;
+    height: 10vh;
+}
+
+button {
+    
+    border-radius: 5px;
+    
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+
+/*.table{
+    margin-top: 20px;
+    width: 100vw;
+    height: 80vh;
+    padding: 10px;
+    background-color: rgb(15, 91, 90);
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    flex-wrap: wrap;
+}
+*/
+input {
+        padding: 5px;
+        margin-right: 5px;
+        background-color:white;
+        display: flex;
+        flex-wrap: wrap;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    background-color: beige;
+    text-align: center;
+}
